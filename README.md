@@ -4,8 +4,8 @@
 
 | Difficulty | Solved |
 |------------|---------|
-| Easy | 4 |
-| Medium | 0 |
+| Easy | 7 |
+| Medium | 1 |
 | Hard | 0 |
 
 ## Topics
