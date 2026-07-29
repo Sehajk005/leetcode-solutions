@@ -4,7 +4,7 @@
 
 | Difficulty | Solved |
 |------------|---------|
-| Easy | 10 |
+| Easy | 11 |
 | Medium | 3 |
 | Hard | 0 |
 
