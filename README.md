@@ -5,7 +5,7 @@
 | Difficulty | Solved |
 |------------|---------|
 | Easy | 26 |
-| Medium | 14 |
+| Medium | 15 |
 | Hard | 0 |
 
 ## Topics
